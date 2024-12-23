@@ -1,0 +1,26 @@
+{
+  "title": "Simple Counter",
+  "description": "A simple module for display and using a counter.",
+  "version": "1.0.0",
+  "esmodules": [
+    "scripts/main.js",
+    "scripts/simple-counter-form.js"
+  ],
+  "styles": [
+    "styles/style.css"
+  ],
+  "url": "https://github.com/gandalfwg/simple-counter",
+  "manifest": "https://raw.githubusercontent.com/gandalfwg/simple-counter/master/module.json",
+  "download": "https://github.com/gandalfwg/simple-counter/archive/master.zip",
+  "id": "simple-counter",
+  "authors": [
+    {
+      "name": "Gandalfwg",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "0.8.6",
+    "verified": "0.8.6"
+  }
+}
